@@ -17,13 +17,18 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tonmoy.tictactoe",
+      "buildNumber": "1.0.0"
     },
     "android": {
+      "package": "com.tonmoy.tictactoe",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.tiktaktoi.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
