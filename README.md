@@ -1,4 +1,4 @@
-# Tic Tak Toe
+# Tic Tac Toe
 
 _React Native Game..._
 
@@ -11,7 +11,7 @@ _CS Student, AUST, Dhaka 1208_
 
 <a href="https://expo.dev/accounts/tonmoytalukder/projects/TicTacToe">Browse Here</a>
 
-## Tic Tak Toe game's Description:
+## Tic Tac Toe game's Description:
 
 > - The game has two player X and O
 > - After a turn, the player change automatically
