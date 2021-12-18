@@ -4,7 +4,7 @@ _React Native Game..._
 
 ### Author:
 
-**<a href="https://tonmoy-talukder.netlify.app/">Tonmoy Talukder</a>** </br>
+**<a href="https://tonmoy-talukder.web.app/">Tonmoy Talukder</a>** </br>
 _CS Student, AUST, Dhaka 1208_
 
 ## Project's Expo Link:
